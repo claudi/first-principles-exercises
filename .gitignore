@@ -1,4 +1,4 @@
 *
 !.gitignore
 !*/
-!*/*.hs
+!*.hs
